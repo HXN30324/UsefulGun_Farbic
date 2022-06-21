@@ -19,7 +19,7 @@ public class UsefulGun implements ModInitializer {
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	//author
-	public static final Item Author = new useful_gun_author(new FabricItemSettings().group(ItemGroup.MISC));
+	public static final Item Author = new useful_gun_author(new FabricItemSettings()/*.group(ItemGroup.MISC)*/);
 	//Item
 
 
