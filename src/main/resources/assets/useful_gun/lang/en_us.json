@@ -1,3 +1,7 @@
 {
-  "item.useful_gun.useful_gun_author": "Useful Gun's author"
+  "itemGroup.useful_gun.useful_gun": "Useful Gun",
+  "item.useful_gun.useful_gun_author": "Useful Gun's author",
+  "item.useful_gun.useful_gun_author.tooltip": "haha!This item is the first item of this mod.",
+  "block.useful_gun.gunpowder_block": "gunpowder_block",
+  "item.useful_gun.gunpowder_block": "gunpowder_block"
 }
