@@ -1,3 +1,8 @@
 {
-  "item.useful_gun.useful_gun_author": "实用枪械的作者"
+  "itemGroup.useful_gun.useful_gun": "实用枪械",
+  "item.useful_gun.useful_gun_author": "实用枪械的作者",
+  "item.useful_gun.useful_gun_author.tooltip": "这个物品是这个MOD的第一个物品,但是你为啥要拿这东西",
+  "item.useful_gun.iron_stick": "铁棒",
+  "block.useful_gun.gunpowder_block": "火药块",
+  "block.useful_gun.bagged_gunpowder_block": "袋装火药块"
 }

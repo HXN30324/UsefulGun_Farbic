@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "qqq",
+    "qqq",
+    "qqq"
+  ],
+  "key": {
+    "q": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "useful_gun:gunpowder_block"
+  }
+}
