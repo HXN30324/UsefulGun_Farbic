@@ -1,3 +1,11 @@
 {
-  "item.useful_gun.useful_gun_author": "Useful Gun's author"
+  "itemGroup.useful_gun.useful_gun": "Useful Gun",
+  "item.useful_gun.useful_gun_author": "Useful Gun's author",
+  "item.useful_gun.useful_gun_author.tooltip": "This item is the first item of this mod, but why do you take it",
+  "item.useful_gun.iron_stick": "Iron Rod",
+  "item.useful_gun.needle": "Needle",
+  "item.useful_gun.needle_and_string": "Needle and string",
+  "item.useful_gun.fabric": "Fabric",
+  "block.useful_gun.gunpowder_block": "Gunpowder Block",
+  "block.useful_gun.bagged_gunpowder_block": "Bagged Gunpowder Block"
 }
