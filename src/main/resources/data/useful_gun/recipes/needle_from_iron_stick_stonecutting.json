@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "useful_gun:iron_stick"
+  },
+  "result": "useful_gun:needle",
+  "count": 2
+}

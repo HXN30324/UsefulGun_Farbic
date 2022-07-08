@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "useful_gun:fabric_bag"
+    },
+    {
+      "item": "useful_gun:gunpowder_block"
+    }
+  ],
+  "result": {
+    "item": "useful_gun:bagged_gunpowder_block"
+  }
+}

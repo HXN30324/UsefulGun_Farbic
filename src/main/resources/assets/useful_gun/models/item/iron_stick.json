@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "useful_gun:item/iron_stick"
+  }
+
+}
